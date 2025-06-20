@@ -1,0 +1,11 @@
+N,P,K,Temperature,Humidity,pH,Rainfall,Soil_Type,Crop
+90,40,40,28,80,6.5,200,Loamy,Rice
+60,30,20,32,40,7.0,100,Sandy,Millet
+70,35,30,22,60,6.8,150,Clay,Wheat
+100,50,50,30,85,6.0,220,Black,Sugarcane
+40,20,15,35,25,7.5,50,Sandy,Bajra
+65,35,30,18,55,6.4,140,Red,Barley
+80,50,40,27,90,6.2,180,Loamy,Maize
+55,25,20,33,35,7.1,80,Red,Jowar
+85,45,35,25,88,6.3,170,Clay,Cotton
+30,15,10,37,20,7.8,30,Sandy,Groundnut
